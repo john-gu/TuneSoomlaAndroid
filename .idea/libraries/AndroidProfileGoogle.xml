@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidProfileGoogle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AndroidProfileGoogle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

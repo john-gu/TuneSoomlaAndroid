@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidStore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AndroidStore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
